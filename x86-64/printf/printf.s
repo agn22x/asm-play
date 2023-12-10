@@ -16,4 +16,4 @@ ret
 
 .section .rodata
 fmt:
-.string "%d + %d is %d\n"
+.string "%d + %d = %d\n"
